@@ -21,8 +21,8 @@ Maybe look at a workaround with ```sleep``` or somemthing?
 - [x] Chromium
 - [x] Bash
 - [x] Vim
-- [ ] markdown
-- [ ] github
+- [x] markdown
+- [x] github
 - [ ] RegExp
 - [ ] get_iplayer
 - [ ] imageMagick
@@ -30,3 +30,4 @@ Maybe look at a workaround with ```sleep``` or somemthing?
 - [ ] systemctl?
 - [ ] self-contained icons (don't point at system path)
 - [ ] trigger mechanism - bash alias not really good enough!
+- [ ] template with variables for filepath to icons

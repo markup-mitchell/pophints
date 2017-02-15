@@ -10,7 +10,9 @@ git mv [file] [dest]            Rename files in a trackable way
 
 git checkout -- [file]          abandon changes since last commit
 
-" -i /usr/share/icons/Numix-Circle/48x48/apps/gvim.svg -t 10000
+" -i ~/coding/pophints/icons/github-128.png -t 10000
 
+
+#-i /usr/share/icons/Numix-Circle/48x48/apps/gvim.svg -t 10000
 # --icon=dialog-information
 # NB timeout parameter not implemented in notify-send - developer claims it is a feature (won't fix)
