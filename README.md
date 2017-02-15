@@ -31,3 +31,5 @@ Maybe look at a workaround with ```sleep``` or somemthing?
 - [ ] self-contained icons (don't point at system path)
 - [ ] trigger mechanism - bash alias not really good enough!
 - [ ] template with variables for filepath to icons
+- [ ] add links to key pages to scripts
+

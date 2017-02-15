@@ -23,7 +23,7 @@ Esc - Exit game
 f - Fullscreen
 
 Select on Retropad - Info
-" -i /usr/share/icons/Numix-Circle/48x48/apps/retroarch.png -t 10000
+" -i ~/coding/pophints/icons/retroarch.png -t 10000
 
 # --icon=dialog-information
 # NB timeout parameter not implemented in notify-send - developer claims it is a feature (won't fix)
