@@ -12,7 +12,7 @@ At the time of writing the format is a bunch of bash scripts that call ```notify
 
 It seems the ```notify-send``` developer (Canonical? check) have not implemented the timeout flag, deeming a ~~~consistent~~~ immutable 5 seconds to be a feature, not a bug.
 
-*sigh*
+\*sigh\*
 
 Maybe look at a workaround with ```sleep``` or somemthing?
 
@@ -21,9 +21,12 @@ Maybe look at a workaround with ```sleep``` or somemthing?
 - [x] Chromium
 - [x] Bash
 - [x] Vim
+- [ ] markdown
+- [ ] github
 - [ ] RegExp
 - [ ] get_iplayer
 - [ ] imageMagick
 - [ ] wifi/netctl
 - [ ] systemctl?
-
+- [ ] self-contained icons (don't point at system path)
+- [ ] trigger mechanism - bash alias not really good enough!
