@@ -10,15 +10,15 @@ git mv [file] [dest]            Rename files in a trackable way
 
 git checkout -- [file]          abandon changes since last commit
 
-<<<<<<< HEAD:githints.sh
 git branch -r                   list remote branches
 git remote-ls                   list remote branches 
 git branch -a                   list all local/remote branches
 
 git push origin --delete [branch]
 
-" -i ~/coding/pophints/icons/github-128.png -t 10000
->>>>>>> 9ed1041b3bf5a5c170cb178924623591b4e7cfc8:githint.sh
+"
+
+-i ~/coding/pophints/icons/github-128.png -t 10000
 
 
 #-i /usr/share/icons/Numix-Circle/48x48/apps/gvim.svg -t 10000
