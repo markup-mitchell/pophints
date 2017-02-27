@@ -1,14 +1,20 @@
 #!/bin/bash
 notify-send 'VIM' "
-''W             Easy-motion hints                 
+''w             Easy-motion hints                 
 
 ZZ              Save and Quit
 
 ci'             Change Inside '
 
+cw              Change word
+
 dt'             Delete to '
 
 :10t20          Move line 10 to 20
+
+~               Toggle case
+gU              Upper case
+gu              Lower case
 
 " -i /usr/share/icons/Numix-Circle/48x48/apps/gvim.svg -t 10000
 

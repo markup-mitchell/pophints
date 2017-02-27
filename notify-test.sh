@@ -1,14 +1,14 @@
 #!/bin/bash
-notify-send 'VIM' "
-''W             Easy-motion hints                 
+notify-send 'GITHUB' "
+git init                        Initialise pwd as local repo
 
-ZZ              Save and Quit
+git clone [github.repo.url]     Clone remote repo to pwd
 
-ci'             Change Inside '
+git checkout -b [name]          Move to new local branch
 
-dt'             Delete to '
+git mv [file] [dest]            Rename files in a trackable way
 
-:10t20          Move line 10 to 20
+git checkout -- [file]          abandon changes since last commit
 
 " -i /usr/share/icons/Numix-Circle/48x48/apps/gvim.svg -t 10000
 

@@ -10,6 +10,12 @@ git mv [file] [dest]            Rename files in a trackable way
 
 git checkout -- [file]          abandon changes since last commit
 
+git branch -r                   list remote branches
+git remote-ls                   list remote branches 
+git branch -a                   list all local/remote branches
+
+git push origin --delete [branch]
+
 " -i /usr/share/icons/Numix-Circle/48x48/apps/gvim.svg -t 10000
 
 # --icon=dialog-information
